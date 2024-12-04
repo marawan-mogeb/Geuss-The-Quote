@@ -10,7 +10,5 @@ Mimics human-like behavior during scraping using randomized delays.
 Includes error handling for seamless execution.
 🖥 Prerequisites
 Make sure you have the following installed:
-
-Python 3.x
-requests library: Install via pip install requests
-BeautifulSoup library: Install via pip install beautifulsoup4
+requests library
+BeautifulSoup library
